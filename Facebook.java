@@ -1,6 +1,6 @@
 import java.util.*;
 /*
-* Submitting from ZhenCheng Cai
+* Submitting from Jackson ZhenCheng Cai
 * This program was created in collaboration with Bill Feng.
 * For CS 146
 * 12/09/2019
